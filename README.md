@@ -1,4 +1,4 @@
-# Python Crash Course 2023
+# Python Crash Course 2024
 
 A super speedy introduction/refresh course of Python basics - intended for the Induction Week for the Applied Mathematics MSc. 
 
@@ -22,7 +22,7 @@ Lastly, if you are more of a visual learner, here is the [link to a video](https
 For any questions do not hesitate to contact me - otherwise, see you in October! 
 
 ## The course
-* [Part 1](https://github.com/jadgle/PyCrashCourse2023/blob/8048447c196c3a0c435a9bcf95bcfb49264fd4c7/Part_1.ipynb) - In the first part of the course we will be covering the Python basics, starting from "Hello World" and the variable definition, up to data structures like strings and lists. We will also introduce the basic constructs (if/for/while) and list comprehensions.
+* [Part 1](https://github.com/jadgle/PyCrashCourse2024/blob/main/Part_1_2024.ipynb) - In the first part of the course we will be covering the Python basics, starting from "Hello World" and the variable definition, up to data structures like strings and lists. We will also introduce the basic constructs (if/for/while) and list comprehensions.
 
 
 * [Link to Teams]()
