@@ -22,10 +22,11 @@ Lastly, if you are more of a visual learner, here is the [link to a video](https
 For any questions do not hesitate to contact me - otherwise, see you in October! 
 
 ## The course
-* [Part 1](https://github.com/jadgle/PyCrashCourse2024/blob/main/Part_1_2024.ipynb) - In the first part of the course we will be covering the Python basics, starting from "Hello World" and the variable definition, up to data structures like strings and lists. We will also introduce the basic constructs (if/for/while) and list comprehensions.
+* [Part 1](https://github.com/jadgle/PyCrashCourse2024/blob/main/Part_1_2024.ipynb) - In the first part of the course we will be covering the Python basics, starting from "Hello World" and the variable definition, up to data structures like strings and lists. We will also introduce the basic constructs (if/for/while) and list comprehensions
 
 
 * [Link to Zoom](https://imperial-ac-uk.zoom.us/j/93628379707?pwd=uxharaPab3EHvIkIK85jINjD7NXVye.1)
+* If you don't have Anaconda and Jupyter notebook installed on your machines, use [Colab](https://colab.research.google.com/) instead
 
 
 
