@@ -25,7 +25,7 @@ For any questions do not hesitate to contact me - otherwise, see you in October!
 * [Part 1](https://github.com/jadgle/PyCrashCourse2024/blob/main/Part_1_2024.ipynb) - In the first part of the course we will be covering the Python basics, starting from "Hello World" and the variable definition, up to data structures like strings and lists. We will also introduce the basic constructs (if/for/while) and list comprehensions.
 
 
-* [Link to Teams]()
+* [Link to Zoom](https://imperial-ac-uk.zoom.us/j/93628379707?pwd=uxharaPab3EHvIkIK85jINjD7NXVye.1)
 
 
 
