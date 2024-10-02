@@ -23,7 +23,7 @@ For any questions do not hesitate to contact me - otherwise, see you in October!
 
 ## The course
 * [Part 1](https://github.com/jadgle/PyCrashCourse2024/blob/main/Part_1_2024.ipynb) - In the first part of the course we will be covering the Python basics, starting from "Hello World" and the variable definition, up to data structures like strings and lists. We will also introduce the basic constructs (if/for/while) and list comprehensions. [[Solutions Part 1](https://github.com/jadgle/PyCrashCourse2024/blob/main/Part_1_2024_solutions.ipynb)]
-* [Part 2](https://github.com/jadgle/PyCrashCourse2024/blob/main/Part_2.ipynb) - In the second part of the course we will be working with matrices and numpy arrays and solving systems of linear and non-linear equations using this data structure. This will be followed by a brief introduction to Matplotlib.
+* [Part 2](https://github.com/jadgle/PyCrashCourse2024/blob/main/Part_2.ipynb) - In the second part of the course we will be working with matrices and numpy arrays and solving systems of linear and non-linear equations using this data structure. This will be followed by a brief introduction to Matplotlib. [[Solutions Part 2](https://github.com/jadgle/PyCrashCourse2024/blob/main/Part_2_2024_solutions.ipynb)]
 
 
 * [Link to Zoom](https://imperial-ac-uk.zoom.us/j/93628379707?pwd=uxharaPab3EHvIkIK85jINjD7NXVye.1)
